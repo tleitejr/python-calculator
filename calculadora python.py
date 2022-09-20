@@ -1,5 +1,6 @@
 print('================================================')
 print('CALCULADORA DE OPERAÇÕES BÁSICAS FEITA EM PYTHON')
+print('GitHub: tleitejr')
 print('================================================')
 while True:
     print('')
